@@ -50,3 +50,4 @@ pytest -v
 ## Logs
 Se guardan en `logs/api.log` (rotativo). Cada petición registra: id, método, ruta, código HTTP y tiempo.
 Los códigos 4xx se marcan como `WARNING` y los fallos internos como `ERROR` con traza completa.
+Este proyecto se desarrolló con apoyo de una herramienta de IA para la estructura del código y la documentación; las pruebas y capturas si son propias
